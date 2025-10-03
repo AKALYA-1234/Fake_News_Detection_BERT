@@ -5,7 +5,7 @@ The model is fine-tuned on the [Kaggle Fake News dataset](https://www.kaggle.com
 
 ---
 
-🖼️ Demo app link:
+🖼️ Demo app linkv: https://huggingface.co/spaces/AKALYAS/Fake_news_detectio_BERT
 
 ---
 
@@ -123,7 +123,7 @@ Deploy as a REST API using FastAPI
 
 🖼️ Demo app :
 
-<img width="1538" height="489" alt="image" src="https://github.com/user-attachments/assets/572944f9-b5b6-46a0-91ea-557ffaa43d76" />
+<img width="1867" height="527" alt="image" src="https://github.com/user-attachments/assets/4c8e8d53-d9b7-44ed-9c35-2f53ccd1f451" />
 
 
 ----
