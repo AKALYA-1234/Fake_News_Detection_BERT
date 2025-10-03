@@ -20,11 +20,17 @@ The model is fine-tuned on the [Kaggle Fake News dataset](https://www.kaggle.com
 ## 📂 Project Structure
 
 ├── app.py # Main Gradio app
+
 ├── requirements.txt # Dependencies
+
 ├── archive (2)/ # Dataset folder
+
 │ ├── Fake.csv
+
 │ ├── True.csv
+
 ├── results/ # Fine-tuned BERT model (config.json, pytorch_model.bin, tokenizer.json etc.)
+
 └── README.md # Project documentation
 
 
@@ -116,3 +122,6 @@ Deploy as a REST API using FastAPI
 ---
 
 🖼️ Demo app :
+
+
+----
